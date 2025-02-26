@@ -1,3 +1,3 @@
 I did a group project with my partner in school where we had to use microservices to help each other complete the project. My part of the project was to build a job search program that has a UI that asks the user what job title they're searching for and what city they're in. I used Tkinter in python to make the UI. My partner and I used ZeroMQ services for their sockets for client-server communication. The program would take that information and send it to the server. The server uses an API that tracks job openings. I got the free API from rapidAPI. The server collects the information that was sent from the client and sends the results back to the client. The client takes that JSON file and turns it into a text file and also displays it on the UI. Below is a video link that recorded me walking through the process of the program running.
 
-https://media.oregonstate.edu/media/t/1_vfmy4r4r
+https://media.oregonstate.edu/media/t/1_ou2pttgz
