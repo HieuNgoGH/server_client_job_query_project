@@ -1,3 +1,3 @@
-I made a client-server project where the client would ask the server for a list of job openings from a certain user input keyword. The server would use an API which
-I got from RapidAPI. Their keys have a limited time use so I'd have to get them renewed or a new one. The server would send the opening information back to the client and 
-it will be stored in a text file on the client side.
+I did a group project with my partner in school where we had to use microservices to help each other complete the project. My part of the project was to build a job search program that has a UI that asks the user what job title they're searching for and what city they're in. The program would take that information and send it to the server. The services uses an API that tracks job openings. The server collects the information that was sent from the client and sends the results back to the client. The client takes that JSON file and turns it into a text file and also displays it on the UI. Below is a video link that recorded me walking through the process of the program running.
+
+https://media.oregonstate.edu/media/t/1_vfmy4r4r
